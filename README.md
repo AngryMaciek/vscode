@@ -26,3 +26,4 @@
 * vscode-restructuredtext/vscode-restructuredtext
 * microsoft/vscode-docker
 * formulahendry/vscode-code-runner
+* continuedev/continue

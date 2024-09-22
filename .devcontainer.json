@@ -1,8 +1,11 @@
 {
     "name": "extest",
+
     "extensions": [
-        "nonylene.dark-molokai-theme"
+        "nonylene.dark-molokai-theme",
+        "donjayamanne.githistory"
     ],
+
     "settings": {
         "workbench.colorTheme": "Dark (Molokai)"
     }

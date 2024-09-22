@@ -1,6 +1,9 @@
 {
     "name": "extest",
     "extensions": [
-        "nonylene.dark-molokai-theme",
-    ]
+        "nonylene.dark-molokai-theme"
+    ],
+    "settings": {
+        "workbench.colorTheme": "Monokai"
+    }
 }

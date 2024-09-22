@@ -27,3 +27,4 @@
 * microsoft/vscode-docker
 * formulahendry/vscode-code-runner
 * continuedev/continue
+* TabbyML/tabby

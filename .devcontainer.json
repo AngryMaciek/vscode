@@ -1,6 +1,6 @@
 {
     "name": "extest",
     "extensions": [
-        "nonylene.vscode-dark-molokai-theme",
+        "nonylene.dark-molokai-theme",
     ]
 }

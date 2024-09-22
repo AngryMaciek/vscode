@@ -2,8 +2,9 @@
     "name": "extest",
 
     "extensions": [
-        "nonylene.dark-molokai-theme",
-        "donjayamanne.githistory"
+        "donjayamanne.githistory",
+        "kisstkondoros.vscode-gutter-preview",
+        "nonylene.dark-molokai-theme"
     ],
 
     "settings": {
